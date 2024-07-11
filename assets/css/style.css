@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Inconsolata:wght@200..900&display=swap');
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -154,7 +154,7 @@ textarea {
 }
 
 html {
-  font-family: "Playwrite IT Trad", cursive;
+    font-family: "Inconsolata", monospace;
 }
 
 body {
